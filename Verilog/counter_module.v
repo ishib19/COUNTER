@@ -1,5 +1,5 @@
 //16 bit Up_Down Counter
-`timescale 1ns/1ps
+`timescale  1ns/1ps
 module counter(clk,m,rst,count);
 input clk,m,rst;
 output reg [15:0] count;
