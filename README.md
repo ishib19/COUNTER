@@ -19,14 +19,9 @@ The design was synthesized and taken through ASIC physical design stages using C
 - `m = 0` → Count Down
 
 ### Repo Structure
-├── Verilog/
-│   ├── counter.v
-│   └── counter_test.v
-├── Outputs/
-│   ├── synthesis_schematic.png
-│   └── power_report.png
-└── Physical_Design/
-    └── design_stages.pdf
+├── Verilog: RTL module and testbench  
+├── Outputs: Synthesis schematic and power report  
+└── Physical_Design: Placement, CTS, routing and optimization stages
 
 ### Tools Used
 - **Verilog HDL** – RTL Design
