@@ -1,4 +1,4 @@
-# 16-bit Up/Down Counter ASIC
+# 16-bit Up/Down Counter 
 
 Intern ID - CTTS120 <BR>
 Full Name - ISHI BHARDWAJ <BR>
