@@ -3,7 +3,7 @@
 Intern ID - CTTS120 <BR>
 Full Name - ISHI BHARDWAJ <BR>
 No. of Weeks - 8 <BR>
-Project Name - 4X1 RAM <BR>
+Project Name - 16 bit counter <BR>
 Project Scope - COUNTER<BR>
 
 ### Overview
